@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile!
 
-![Vraspar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vraspar&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545&hide=["issues"])
+🔭 I’m currently working on developing Objective-C API for [onnxruntime training](https://onnxruntime.ai) 
 
 <img style="align-center" src="https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=vraspar&langs_count=7&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545">
 <!--
